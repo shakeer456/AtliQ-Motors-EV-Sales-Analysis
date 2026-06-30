@@ -369,30 +369,30 @@ Live Dashboard Link : [Click Here](https://app.powerbi.com/view?r=eyJrIjoiN2ZlZj
 
 #### Data Model View :
 
-![data model view](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Data%20Model%20View.png?raw=true)
+![data model view](https://github.com/shakeer456/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Data%20Model%20View.png?raw=true)
 
 -----------------------------
 
 #### Home Page View :
 
-![Home Page](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Home%20Page.png?raw=true)
+![Home Page](https://github.com/shakeer456/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Home%20Page.png?raw=true)
 
 -------------------------------
 
 #### Maker Page View :
 
-![Maker Page](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Maker%20View.png?raw=true)
+![Maker Page](https://github.com/shakeer456/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Maker%20View.png?raw=true)
 
 -----------------------------
 
 #### State Page View :
 
-![State Page](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/State%20View.png?raw=true)
+![State Page](https://github.com/shakeer456/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/State%20View.png?raw=true)
 
 ---------------------------------
 
 #### State vs State Page View :
 
-![State vs State](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/State%20vs%20State%20View.png?raw=true)
+![State vs State](https://github.com/shakeer456/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/State%20vs%20State%20View.png?raw=true)
 
 ----------------------------
